@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Nom de l'extension",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Description courte de l'extension", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}

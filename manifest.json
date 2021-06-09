@@ -1,0 +1,18 @@
+{
+  "background": {
+     "persistent": false,
+     "scripts": [ "assets/js/background.js" ]
+  },
+  "browser_action": {
+     "default_icon": "nom du fichier.png"
+  },
+  "description": "__MSG_description__",
+  "icons": {
+     "300": "nom du fichier.png"
+  },
+  "manifest_version": 2,
+  "name": "__MSG_name__",
+  "default_locale": "fr",
+  "version": "0.0.0.0",
+  "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx"
+}
